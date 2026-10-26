@@ -185,7 +185,7 @@ Contributors list:
 
 ## License
 
-Copyright 2025 Google LLC
+Copyright 2026 Google LLC
 
 All software is licensed under the Apache License, Version 2.0 (Apache 2.0); you may not use this file except in compliance with the Apache 2.0 license. You may obtain a copy of the Apache 2.0 license at: https://www.apache.org/licenses/LICENSE-2.0
 
